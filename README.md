@@ -6,8 +6,7 @@
 ## 利用法
 このjgeopyのファイルをすべて自分のpythonを扱うディレクトリにコピー
 
-```
-ex.)
+```ex.)
 import jgeopy
 reverse_geocoding(latitude=35, longitude=135) 
 ```
