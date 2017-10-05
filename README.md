@@ -5,10 +5,12 @@
 
 ## 利用法
 このjgeopyのファイルをすべて自分のpythonを扱うディレクトリにコピー
+
+'''
     ex.)
     import jgeopy
     reverse_geocoding(latitude=35, longitude=135) 
-
+'''
 
 ## 免責
 ご利用は自由ですがこのライブラリを使用したことによる一切の責任を負いません
